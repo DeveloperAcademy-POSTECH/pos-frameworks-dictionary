@@ -26,7 +26,7 @@
 ## 지도 및 위치
 1. MapKit
 ## ML 및 Vision
-1. [CoreML](./CoreML/README.md)
+1. [CoreML](./CoreML/)
 2. Vision
 3. Speech
 4. Natural Language
